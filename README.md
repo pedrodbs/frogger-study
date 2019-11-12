@@ -4,7 +4,7 @@ This repository contains several video clips depicting the game-play of differen
 
 The agents' behavior was acquired through reinforcement learning (RL).
 
-The video clips correspond to visual explanations produced by eXplanation RL (XRL) framework. Each video captures a different aspect of an agent's interaction with the environment.
+The video clips correspond to visual explanations produced by an eXplanation RL (XRL) framework. Each video captures a different aspect of an agent's interaction with the environment.
 
 ## Structure
 
